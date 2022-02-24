@@ -1,5 +1,5 @@
 import secrets, string, time, sys
-#Author:D4NG3R-D4NNY Github:D4NG3R-D4NNY
+#Author:D4NG3R-Danny
 
 '''Password generator: length of password [int] , 
                        amounts of password [int],
